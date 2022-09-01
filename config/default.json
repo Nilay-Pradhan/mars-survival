@@ -1,0 +1,4 @@
+{
+    "port": 4000,
+    "dbUrl": "mongodb+srv://nilay:74Bz1QCpt8gbUNLP@cluster0.ap2s1qa.mongodb.net/backend_assignment"
+}
